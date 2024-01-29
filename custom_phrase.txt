@@ -1,0 +1,169 @@
+# Rime table
+# coding: utf-8
+# for pythoner
+#
+# 用於【朙月拼音】系列輸入方案
+# Rime用戶文件夾/custom_phrase.txt
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+
+v1	v	1000
+v2	v	900
+pai	pai	1
+grater	grater	1
+autodoc	autodoc	1
+trident	trident	1
+python	python	1
+api	api	1
+abs	abs	1
+aiter	aiter	1
+all	all	1
+any	any	1
+anext	anext	1
+ascii	ascii	1
+bin	bin	1
+bool	bool	1
+breakpoint	breakpoint	1
+bytearray	bytearray	1
+bytes	bytes	1
+callable	callable	1
+chr	chr	1
+classmethod	classmethod	1
+compile	compile	1
+complex	complex	1
+delattr	delattr	1
+dict	dict	1
+dir	dir	1
+divmod	divmod	1
+enumerate	enumerate	1
+eval	eval	1
+exec	exec	1
+filter	filter	1
+float	float	1
+format	format	1
+frozenset	frozenset	1
+getattr	getattr	1
+globals	globals	1
+hasattr	hasattr	1
+hash	hash	1
+help	help	1
+hex	hex	1
+id	id	1
+input	input	1
+int	int	1
+isinstance	isinstance	1
+issubclass	issubclass	1
+iter	iter	1
+len	len	1
+list	list	1
+locals	locals	1
+map	map	1
+max	max	1
+memoryview	memoryview	1
+min	min	1
+next	next	1
+object	object	1
+oct	oct	1
+open	open	1
+ord	ord	1
+pow	pow	1
+print	print	1
+property	property	1
+range	range	1
+repr	repr	1
+reversed	reversed	1
+round	round	1
+set	set	1
+setattr	setattr	1
+slice	slice	1
+sorted	sorted	1
+staticmethod	staticmethod	1
+str	str	1
+sum	sum	1
+super	super	1
+tuple	tuple	1
+type	type	1
+vars	vars	1
+zip	zip	1
+if	if	1
+else	else	1
+elif	elif	1
+match	match	1
+case	case	1
+or	or	1
+and	and	1
+not	not	1
+while	while	1
+continue	continue	1
+break	break	1
+for	for	1
+in	in	1
+range	range	1
+sys	sys	1
+def	def	1
+lambda	lambda	1
+async	async	1
+await	await	1
+with	with	1
+as	as	1
+return	return	1
+append	append	1
+add	add	1
+insert	insert	1
+remove	remove	1
+pop	pop	1
+sort	sort	1
+reverse	reverse	1
+key	key	1
+get	get	1
+setdefault	setdefault	1
+union	union	1
+re	re	1
+sub	sub	1
+chain	chain	1
+enumerate	enumerate	1
+join	join	1
+path	path	1
+current	current	1
+json	json	1
+dump	dump	1
+load	load	1
+args	args	1
+kwargs	kwargs	1
+date	date	1
+time	time	1
+datetime	datetime	1
+microsecond	microsecond	1
+hour	hour	1
+strftime	strftime	1
+strptime	strptime	1
+timedelta	timedelta	1
+itertools	itertools	1
+operator	operator	1
+正在開會，一會給你回復：）	meet
+中州韻輸入法引擎	rime	2
+又双叒叕	yyy
+http://rime.im/	rime	1
+rime	rime	3
+⌘	cmd command
+⌃	ctl control
+⌥	opt option
+⇧	shift shift
+⇥	tab tab
+⇪	caps capslock
+⏎	return return
+␣	space space
+⌫	del del
+⎋	esc escape
+⏏	eject eject
+docx	docx
+drafts	drafts
+emacs	emacs
+gimp	gimp
+github	github
+gmail	gmail
+google	google
+http	http
