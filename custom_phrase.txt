@@ -13,9 +13,12 @@
 v1	v	1000
 v2	v	900
 pai	pai	1
-grater	grater	1
-autodoc	autodoc	1
-trident	trident	1
+Grater	grater	1
+AutoDoc	autodoc	1
+Trident	trident	1
+ChatDOC	chatdoc	1
+Scriber	scriber	1
+Glazer	glazer	1
 python	python	1
 api	api	1
 abs	abs	1
@@ -167,3 +170,8 @@ github	github
 gmail	gmail
 google	google
 http	http
+bug	bug	 1
+sudo	sudo	1
+ll	ll	 1
+cd	cd	1
+tail	tail	 1
